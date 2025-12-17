@@ -5,7 +5,6 @@
 [YouTube Downloader.pdf](https://github.com/user-attachments/files/24206242/YouTube.Downloader.pdf)
 
 
-بالتأكيد، إليك ملف الـ **README.md** بالكامل باللغة الإنجليزية، مع التركيز على فكرة أنه "حاسوب مصغر" (Mini-PC/OS) وتوضيح خطوات التثبيت والتشغيل:
 
 ```markdown
 # PyTerminal-OS: A Mini CLI Computer
